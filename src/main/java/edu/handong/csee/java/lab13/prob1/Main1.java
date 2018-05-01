@@ -1,6 +1,6 @@
 package edu.handong.csee.java.lab13.prob1;	//package name
 
-public class Main {	//Main is class name and modifier is public.
+public class Main1 {	//Main1 is class name and modifier is public.
 
 	public static void main(String[] args) {	//main method
 		
