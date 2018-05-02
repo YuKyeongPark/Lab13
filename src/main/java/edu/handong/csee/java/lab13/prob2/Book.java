@@ -9,13 +9,13 @@ public class Book {	//Book class and modifier is public
 	
 	//constructor is a initialize method which has same name with class and there is no return type 
 	public Book(String bookName) {
-		this.bookName = bookName;	
+		this.bookName = bookName;	//puts parameter value into Book class' variable bookName
 		idCount++;	//idCount+1
 		id = idCount;	//puts value of idCount into id
 	}
 	
 	public String toString() {	//text content
-		return "\n\tId: " + id + "\n\tBook Name: " + bookName;
+		return "\n\tId: " + id + "\n\tBook Name: " + bookName;	//return Book information
 	}
 	
 	public void show(){	//method to show result

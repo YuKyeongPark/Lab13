@@ -2,7 +2,7 @@ package edu.handong.csee.java.lab13.prob3;	//prob3. package name
 
 import java.util.Scanner;	//import Scanner which exists java
 
-public class Main {	//Main is class name. This class contains main method
+public class Main3 {	//Main is class name. This class contains main method
 	
 	public static void main(String[] args) {	//main method
 		double n1, n2;	//declares variables n1, n2
