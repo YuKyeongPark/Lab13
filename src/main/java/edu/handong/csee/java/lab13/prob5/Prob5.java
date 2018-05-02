@@ -2,7 +2,7 @@ package edu.handong.csee.java.lab13.prob5;	//prob5. package name
 
 public class Prob5 {	//Prob5 is a class, which is blueprint of object
 	
-	public static boolean equals(int[][] m1, int[][] m2) {	 //method to compare the two arrays
+	public static boolean equal(int[][] m1, int[][] m2) {	 //method to compare the two arrays
 		int count = 0; //declares variable for counting 
 		//condition1: if row size is different 		
 		if(m1.length != m2.length)	//if the row of a array and b array is diff

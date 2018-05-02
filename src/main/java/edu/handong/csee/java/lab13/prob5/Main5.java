@@ -54,7 +54,7 @@ public class Main5 {	//Main5 Class has main method
 
 		Prob5 prob5 = new Prob5();	//initiation to use method of prob5
 		//compare
-		if(Prob5.equals(m1,m2))	//if m1 and m2 is equal
+		if(Prob5.equal(m1,m2))	//if m1 and m2 is equal
 			System.out.println("The two arrays are approximately identical.");	//prints this
 		else	//if m1 and m2 is diff
 			System.out.println("The two arrays are not identical");	//prints this
@@ -64,5 +64,4 @@ public class Main5 {	//Main5 Class has main method
 	
 
 }
-
 
